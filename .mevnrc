@@ -1,0 +1,11 @@
+{
+  "name": "yt-test5",
+  "template": "Nuxt.js",
+  "modules": [],
+  "renderingMode": "universal",
+  "deployTarget": "server",
+  "isConfigured": {
+    "client": true,
+    "server": true
+  }
+}
